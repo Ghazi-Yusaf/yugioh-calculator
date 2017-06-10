@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/app-876efb7a.js","0106050aa875201d7211854a7dc1ea96"],["/app-da9c6e35.css","4faf30e5c07b385cb877ad7419ac05c7"],["/fonts/ubuntu-mono-4b8122e7.woff","90a3fd38639c25a1607d565bc72d7b52"],["/fonts/ubuntu-mono-ff9e23f8.woff2","98d7f2f48c7f453961a643df2a07dfef"],["/index.html","8258626d244e343189722fcbc6515b5e"],["/manifest-49269970.json","33e8dcf1f3a31c7f533b9750fe068d23"],["/web-app-icon.png","2816b4d7d78c85c434b6fb11146ad99d"]];
+var precacheConfig = [["/yugioh-calculator-2016/app-876efb7a.js","0106050aa875201d7211854a7dc1ea96"],["/yugioh-calculator-2016/app-da9c6e35.css","4faf30e5c07b385cb877ad7419ac05c7"],["/yugioh-calculator-2016/fonts/ubuntu-mono-4b8122e7.woff","90a3fd38639c25a1607d565bc72d7b52"],["/yugioh-calculator-2016/fonts/ubuntu-mono-ff9e23f8.woff2","98d7f2f48c7f453961a643df2a07dfef"],["/yugioh-calculator-2016/index.html","8258626d244e343189722fcbc6515b5e"],["/yugioh-calculator-2016/manifest-49269970.json","33e8dcf1f3a31c7f533b9750fe068d23"],["/yugioh-calculator-2016/web-app-icon.png","2816b4d7d78c85c434b6fb11146ad99d"]];
 var cacheName = 'sw-precache-v3-yugioh-calculator-' + (self.registration ? self.registration.scope : '');
 
 
